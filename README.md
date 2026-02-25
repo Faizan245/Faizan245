@@ -153,7 +153,6 @@ const experience = {
 
 <div align="center">
   
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer" />
 
