@@ -149,17 +149,7 @@ const experience = {
 
 ---
 
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Coding Vibes
-[![Spotify](https://novatorem-phi-olive.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
 
 <div align="center">
   
