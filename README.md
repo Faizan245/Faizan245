@@ -13,7 +13,7 @@
 ```typescript
 const faizan = {
     title: "Full Stack Developer",
-    experience: "2.7+ years",
+    experience: "3+ years",
     location: "India 🇮🇳",
     focus: ["Web Development", "API Design", "Cloud Solutions"],
     currentlyLearning: ["System Design", "Microservices", "DevOps"],
