@@ -81,7 +81,7 @@ const faizan = {
 
 ```javascript
 const experience = {
-  totalYears: "2.7+",
+  totalYears: "3+",
   expertise: [
     "✅ Built and deployed 10+ production applications",
     "✅ Reduced API response time by 40% through optimization",
